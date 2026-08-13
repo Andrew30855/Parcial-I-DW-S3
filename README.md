@@ -17,6 +17,8 @@ npm install
 npm run dev
 ```
 
+Consulta [INSTRUCCIONES.md](INSTRUCCIONES.md) para ver la guía paso a paso de ejecución en Visual Studio Code y Chrome.
+
 ## Arquitectura
 
 | Capa | Tecnología | Uso |
