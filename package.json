@@ -4,6 +4,6 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": { "dev": "vite", "de": "vite", "build": "vite build", "preview": "vite preview" },
-  "dependencies": { "@vitejs/plugin-react": "latest", "vite": "latest", "react": "latest", "react-dom": "latest", "lucide-react": "^0.468.0" },
-  "devDependencies": {}
+  "dependencies": { "lucide-react": "0.468.0", "react": "19.1.0", "react-dom": "19.1.0" },
+  "devDependencies": { "@vitejs/plugin-react": "4.4.1", "source-map-js": "1.2.0", "vite": "6.2.2" }
 }
