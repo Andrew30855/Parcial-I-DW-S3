@@ -28,3 +28,7 @@ npm run dev
 | Internacionalización | Diccionario local | Traducciones de interfaz para 10 idiomas. |
 
 La explicación completa de las capas, archivos y flujo de datos se encuentra en [ARCHITECTURE.md](ARCHITECTURE.md).
+
+## Informe visual
+
+El informe con las capturas de la aplicación, la explicación de los modos claro y oscuro y el enlace del repositorio está disponible en [mercado-project-report.pdf](output/pdf/mercado-project-report.pdf).
