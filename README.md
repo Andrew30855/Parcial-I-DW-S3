@@ -17,8 +17,6 @@ npm install
 npm run dev
 ```
 
-Consulta [INSTRUCCIONES.md](INSTRUCCIONES.md) para ver la guía paso a paso de ejecución en Visual Studio Code y Chrome.
-
 ## Arquitectura
 
 | Capa | Tecnología | Uso |
@@ -28,3 +26,5 @@ Consulta [INSTRUCCIONES.md](INSTRUCCIONES.md) para ver la guía paso a paso de e
 | Estilos | CSS moderno | Diseño responsivo, temas y animaciones. |
 | Iconos | Lucide React | Iconografía accesible y consistente. |
 | Internacionalización | Diccionario local | Traducciones de interfaz para 10 idiomas. |
+
+La explicación completa de las capas, archivos y flujo de datos se encuentra en [ARCHITECTURE.md](ARCHITECTURE.md).
